@@ -45,6 +45,7 @@ replicaset-deployment/
 │
 ├── screenshots/
 │
+├── Architecture.png
 ├── Dockerfile
 ├── README.md
 ├── deployment.yaml
