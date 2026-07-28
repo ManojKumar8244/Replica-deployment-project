@@ -206,23 +206,6 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 📸 Screenshots
-
-Include screenshots of:
-
-- Docker Image Build
-- ReplicaSet Creation
-- Deployment Creation
-- Running Pods
-- ReplicaSets
-- Kubernetes Service
-- Deployment Scaling
-- Rolling Update
-- Rollback
-- `kubectl get all` Output
-
----
-
 ## ✅ Project Outcome
 
 Successfully deployed a scalable web application using Kubernetes ReplicaSets and Deployments. ReplicaSets ensured application availability by maintaining the desired number of Pod replicas, while Deployments simplified application lifecycle management through rolling updates, rollbacks, and scaling. The Kubernetes Service provided reliable access to the application, resulting in a resilient, highly available, and production-ready deployment.
@@ -231,6 +214,6 @@ Successfully deployed a scalable web application using Kubernetes ReplicaSets an
 
 ## 👨‍💻 Author
 
-**Manoj Kumar**
+**Manoj Kumar Nagamulla**
 
 - GitHub: https://github.com/ManojKumar8244
